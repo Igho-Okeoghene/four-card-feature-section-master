@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [four-card-feature-section-master](https://github.com/Igho-Okeoghene/four-card-feature-section-master)
-- Live Site URL: [four card feature section master live site/](https://igho-okeoghene.github.io/four-card-feature-section-master/)
+- Live Site URL: [four card feature section master live site/](https://igho-okeoghene.github.io/four-card-feature-section-master)
 
 
 ### Built with
