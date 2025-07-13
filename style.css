@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  color: hsl(234, 12%, 34%);
+}
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.container {
+  padding: 2rem 1.5rem;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: #f5f5f5;
+  margin: 0 auto;
+}
+h2,
+h1 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.2rem;
+  padding-bottom: 0.5rem;
+}
+.heading p {
+  padding: 0.5rem 0;
+  max-width: 500px;
+  margin: 0 auto;
+}
+/*Cards*/
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 0.5px 1px 3px 5px #f0f8ff;
+  border-radius: 0.5rem;
+  border: 1px solid hsl(0, 0%, 100%);
+  margin-top: 1.5rem;
+  padding: 2rem;
+  text-align: left;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+  max-width: 350px;
+  align-self: center;
+}
+.card p {
+  font-size: 0.8rem;
+}
+.cyan {
+  border-top: 4px solid hsl(180, 62%, 55%);
+}
+.red {
+  border-top: 4px solid hsl(0, 78%, 62%);
+}
+.orange {
+  border-top: 4px solid hsl(34, 97%, 64%);
+}
+.blue {
+  border-top: 4px solid hsl(212, 86%, 64%);
+}
+.icon {
+  padding-top: 2rem;
+  text-align: right;
+}
+/*Footer*/
+footer {
+  margin: 1rem 0 0 0;
+}
