@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [four-card-feature-section-master](https://github.com/Igho-Okeoghene/four-card-feature-section-master)
+- Live Site URL: [four card feature section master live site/](https://igho-okeoghene.github.io/four-card-feature-section-master/)
 
 
 ### Built with
